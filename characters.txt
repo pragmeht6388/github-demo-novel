@@ -1,0 +1,3 @@
+version 1L
+line 1
+Hello Characters info files
