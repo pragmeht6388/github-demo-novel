@@ -3,3 +3,4 @@ Line 1
 Line 2
 Hello Pragnesh
 How are you
+to test git amend

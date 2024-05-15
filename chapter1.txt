@@ -2,3 +2,4 @@ version 1
 Line 1
 Line 2
 Hello chapter 1 day two file addeds
+to test git amend
